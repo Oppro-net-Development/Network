@@ -1,0 +1,10 @@
+py-cord==2.7.0rc1
+ezcord
+PyNaCl
+PyYAML
+aiocache
+aiohttp
+aiosqlite
+pytz
+mcstatus==5.1.0
+requests
